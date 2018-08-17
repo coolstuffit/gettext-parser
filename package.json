@@ -1,17 +1,20 @@
 {
-  "name": "gettext-parser",
+  "name": "@coolstuffit/gettext-parser",
   "description": "Parse and compile gettext po and mo files to/from json, nothing more, nothing less",
   "version": "2.0.0",
   "author": "Andris Reinman",
   "contributors": [
     {
       "name": "Sam Hauglustaine"
+    },
+    {
+      "name": "CoolStuffit"
     }
   ],
-  "homepage": "http://github.com/smhg/gettext-parser",
+  "homepage": "http://github.com/coolstuffit/gettext-parser",
   "repository": {
     "type": "git",
-    "url": "http://github.com/smhg/gettext-parser.git"
+    "url": "http://github.com/coolstuffit/gettext-parser.git"
   },
   "scripts": {
     "lint": "eslint lib/*.js test/*.js index.js",
